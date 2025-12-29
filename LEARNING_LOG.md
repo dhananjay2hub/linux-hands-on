@@ -23,3 +23,27 @@ What I learned:
 
 Status:
 - Basics understood, need more practice
+
+---
+
+## 2025-01-30 — Input and Output Redirection
+
+What I did:
+- Practiced redirecting output to files
+- Used > and >> with commands
+
+Commands used:
+- >
+- >>
+- cat
+- echo
+
+What confused me:
+- Difference between > and >>
+
+What I learned:
+- > overwrites the file
+- >> appends to the file
+
+Status:
+- Understood basics, need more practice
