@@ -1,6 +1,6 @@
 ---
 
-## 2025-01-29 — File Permissions and Ownership
+## 29-12-2025 — File Permissions and Ownership
 
 What I did:
 - Practiced file permissions using chmod
@@ -23,3 +23,29 @@ What I learned:
 
 Status:
 - Basics understood, need more practice
+
+---
+
+## 30-12-2025 — File Permissions and Ownership
+
+What I did:
+- Revised all I learned about linux
+- practiced all previous commands
+- I learned ACL (access control list)
+- Made new directories/files and practiced ACL
+
+Commands used:
+- setfacl
+- getfacl
+- touch
+- mkdir
+
+What confused me:
+- I was doing it as user. But it should do as root
+
+What I learned:
+- How to give permission to a spesific user to add or modify
+- How the ACL actually affect on permissions 
+
+Status:
+- I covered 25% of portion. Many is to learn
