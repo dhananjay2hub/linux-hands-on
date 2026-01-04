@@ -49,3 +49,32 @@ What I learned:
 
 Status:
 - I covered 25% of portion. Many is to learn
+
+---
+
+## 04-01-2026 — Input and output redirects
+
+What I did:
+- Learned commands to get info of a command
+- Working of Tab and Up arrow key
+- Adding text to files
+- stdin, stdout, stderr
+
+Commands used:
+- help
+- whatis
+- man 
+- vi
+- echo
+- single and double greater than
+
+What confused me:
+- When to use single greater than and when to use double greater than.
+
+What I learned:
+- How to add text into existing files.
+- How to get more information about a specific command
+- How to redirect the output of a command 
+
+Status:
+- Learning very basics
