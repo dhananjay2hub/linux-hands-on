@@ -29,10 +29,10 @@ Status:
 ## 30-12-2025 — File Permissions and Ownership (ACL)
 
 What I did:
-- Revised previously learned Linux permission concepts
-- Practiced all earlier permission-related commands
+- Revised Linux file permission concepts
+- Practiced previously learned permission commands
 - Learned Access Control Lists (ACL)
-- Created new files and directories to practice ACL
+- Created files and directories to apply ACL rules
 
 Commands used:
 - setfacl
@@ -41,14 +41,14 @@ Commands used:
 - mkdir
 
 What confused me:
-- Permission issues when modifying ACL without sufficient privileges
+- Permission denied errors due to insufficient privileges or ownership
 
 What I learned:
 - How to grant permissions to a specific user using ACL
 - How ACL interacts with and overrides standard permissions
 
 Status:
-- ~25% completed, more practice required
+- About 25% completed, requires more practice
 
 ---
 
@@ -56,8 +56,8 @@ Status:
 
 What I did:
 - Learned how to get information about commands
-- Practiced using Tab and Up arrow keys
-- Added text to files
+- Practiced using Tab completion and command history
+- Added text to files using redirection
 - Studied stdin, stdout, and stderr
 
 Commands used:
@@ -72,12 +72,12 @@ What confused me:
 - When to use single (>) versus double (>>) redirection
 
 What I learned:
-- How to add text to existing files
+- How to add and append text to files
 - How to find detailed information about commands
-- How to redirect command output
+- How to redirect command output correctly
 
 Status:
-- Learning the basics
+- Basics understood, more practice needed
 
 ---
 
@@ -87,7 +87,7 @@ What I did:
 - Used the tee command
 - Practiced piping output using |
 - Executed multiple commands using ;
-- Used the -a option with tee
+- Used the -a option with tee to append output
 
 Commands used:
 - echo
@@ -95,14 +95,14 @@ Commands used:
 - more
 
 What confused me:
-- When and how to use the -a option with tee to append data
+- When and why to use the -a option with tee
 
 What I learned:
-- How tee displays and saves output simultaneously
+- How tee displays output and writes it to a file at the same time
 - How pipes connect the output of one command to another
-- How to execute multiple commands on a single line
+- How to execute multiple commands in a single line
 
 Status:
-- Need to improve speed and consistency
+- Need to improve speed and command confidence
 
 ---
