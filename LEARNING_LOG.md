@@ -73,8 +73,34 @@ What confused me:
 
 What I learned:
 - How to add text into existing files.
-- How to get more information about a specific command
-- How to redirect the output of a command 
+- How to get more information about a specific command.
+- How to redirect the output of a command.
 
 Status:
 - Learning very basics
+
+---
+
+## 05-01-2026 — Pipes and Execute multiple command
+
+What I did:
+- use of 'tee' command
+- use of pipe '|' 
+- Execute multiple command with ';'
+- -a
+
+Commands used:
+- echo
+- tee
+- more
+
+What confused me:
+- While using 'tee' command, how to add next line into the file. Where i use '-a' command.
+
+What I learned:
+- How use 'tee' command to save and show output at same time.
+- How to use pipes (|) to connect two commands.
+- How to run multiple commands in single line.
+
+Status:
+- Need to speedup.
