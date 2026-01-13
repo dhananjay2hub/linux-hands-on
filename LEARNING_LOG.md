@@ -106,3 +106,35 @@ Status:
 - Need to improve speed and command confidence
 
 ---
+
+---
+
+## 06-01-2026 — File maintenance and display commands
+
+What I did:
+- Practiced copy files and remove files
+- practiced make directeries and remove directories.
+- learned file display.
+
+Commands used:
+- cp
+- rm
+- mkdir
+- rmdir
+- cat
+- more
+- less
+- head
+- tail
+
+What confused me:
+- Difference between more and less
+
+What I learned:
+- How to copy file, rename file,etc.
+- Display file content by many ways.
+
+Status:
+- need to be consistent.
+
+---
