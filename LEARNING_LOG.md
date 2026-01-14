@@ -119,6 +119,7 @@ What I did:
 Commands used:
 - cp
 - rm
+- mv
 - mkdir
 - rmdir
 - cat
