@@ -136,6 +136,6 @@ What I learned:
 - Display file content by many ways.
 
 Status:
-- need to be consistent.
+- need to be consistent on github. learning but not updating
 
 ---
