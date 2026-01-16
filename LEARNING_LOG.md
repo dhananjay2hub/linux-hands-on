@@ -129,11 +129,12 @@ Commands used:
 - tail
 
 What confused me:
-- Difference between more and less
+- Difference between more and less.
 
 What I learned:
 - How to copy file, rename file,etc.
 - Display file content by many ways.
+- Create new directories, and manage files.
 
 Status:
 - need to be consistent on github. learning but not updating.
