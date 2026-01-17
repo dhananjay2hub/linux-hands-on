@@ -103,7 +103,7 @@ What I learned:
 - How to execute multiple commands in a single line
 
 Status:
-- Need to improve speed and command confidence
+- Need to improve speed and be cosistent
 
 ---
 
