@@ -133,6 +133,7 @@ What confused me:
 
 What I learned:
 - How to copy file, rename file,etc.
+- How to move file from one place to another.
 - Display file content by many ways.
 - Create new directories, and manage files.
 
