@@ -107,7 +107,6 @@ Status:
 
 ---
 
----
 
 ## 06-01-2026 — File maintenance and display commands
 
@@ -141,3 +140,55 @@ Status:
 - need to be consistent on github. learning but not updating.
 
 ---
+
+## 07-01-2026 — Cut (text processor command.)
+
+What I did:
+- Practiced Cut command to list by size.
+- practiced Cut command to list by character.
+- Practiced Cut command using output of another command using pipe.
+
+Commands used:
+- Cut --version
+- Cut -c1,2,3
+- Cut -c1-4
+- Cut -b1-5
+- ls -l | cut -c2-4
+
+What confused me:
+- Nothing.
+
+What I learned:
+- How to list the data using byte position.
+- How to list the data using Character.
+
+Status:
+- Understanding of text processor command.
+
+---
+
+## 08-01-2026 — AWK (text processor command)
+
+What I did:
+- Practiced awk command to list by words.
+- practiced $2,$3 to list by field
+
+Commands used:
+- awk --version
+- awk '{print $1}' filename
+- awk '{print $NF}' filename
+
+What confused me:
+- How to amke other file as output as input.
+
+What I learned:
+- How to list one word at a time
+- How to list a file with renaming it.
+- How to take other file output as an input.
+
+Status:
+- Have better understanding about text processing.
+
+---
+
+
