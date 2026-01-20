@@ -188,5 +188,6 @@ What I learned:
 
 Status:
 - Have better understanding about text processing.
+- Going to learn more about text processing
 
 ---
