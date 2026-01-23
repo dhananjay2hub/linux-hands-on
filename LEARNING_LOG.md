@@ -164,6 +164,7 @@ What I learned:
 
 Status:
 - Understanding of text processor command.
+- Need to be consistent
 
 ---
 
