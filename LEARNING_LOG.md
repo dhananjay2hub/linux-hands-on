@@ -192,3 +192,53 @@ Status:
 - Going to learn more about text processing
 
 ---
+
+## 09-01-2026 — grep/egrep (text processor command)
+
+What I did:
+- Practiced grep command print by keyword.
+- Practiced egrep command to print two words using keyword.
+
+Commands used:
+- grep/egrep --version
+- grep keyword filename
+- grep -c keyword filename.
+- egrep -i "keyword|keyword" filename
+- grep -vi keyword filenmae
+
+What confused me:
+- How to combine two command in one (vi)
+
+What I learned:
+- How to list content of file using keyword.
+- how to take one command as input of another command.
+- various sub commands for grep/egrep
+
+Status:
+- Have better understanding about text processing.
+
+---
+
+## 10-01-2026 — sort/uniq (text processor command)
+
+What I did:
+- Practiced sort command.
+- Practiced uniq command.
+
+Commands used:
+- sort filenmae.
+- sort -r filename.
+- sort filename | uniq
+
+What confused me:
+- How to use uniq command
+
+What I learned:
+- How to list file content in alphabetical order.
+- How to list file content in reverse order.
+- How to remove duplicate lines from a file.
+
+Status:
+- Have better understanding about text processing.
+
+---
