@@ -224,6 +224,7 @@ Status:
 What I did:
 - Practiced sort command.
 - Practiced uniq command.
+- Practiced various sub-command.
 
 Commands used:
 - sort filenmae.
