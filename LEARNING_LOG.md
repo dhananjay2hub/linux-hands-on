@@ -241,5 +241,6 @@ What I learned:
 
 Status:
 - Have better understanding about text processing.
+- Learning more topics.
 
 ---
